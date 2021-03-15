@@ -1,1 +1,1 @@
-# OS
+# Operating System 개인 스터디 
